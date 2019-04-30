@@ -3,7 +3,7 @@
 
 In recent years Machine Learning has become very popular in various fields of research such as Medicine, Computer Science and Physics.
 
-While studying for the Machine Learning course at university, I'm compile information about the various algorithms studied and the respective implementations and simulations.
+While studying for the Machine Learning course at university, I'm compiling information about the various algorithms studied and the respective implementations and simulations.
 
 The course I'm taking follows almost the same structure as the Coursera Machine Learning course taught by Andrew Ng, which is also one of my sources of information.
 
